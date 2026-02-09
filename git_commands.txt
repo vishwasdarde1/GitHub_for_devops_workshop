@@ -1,0 +1,38 @@
+  2 python testing.py
+   3 -l
+   8 cls
+   9 rm testing.py
+  10 ls -l
+  11 cls
+  12 ls
+  13 git init
+  14 dir
+  15 ls -lar
+  16 cls
+  17 git init
+  18 pwd
+  19 git init
+  20 dir /a
+  21 cls
+  22 git status
+  23 ls
+  24 dir
+  25 cls
+  26 git status
+  27 git add testing.py
+  28 git status
+  29 git status
+  30 git add
+  31 git add .
+  32 git statis
+  33 git status
+  34 git commit -m "this is testing file"
+  35 rm testing.py
+  36 ls
+  37 git status
+  38 git restore trsting.py
+  39 git status
+  40 git restore testing.py
+  41 git status
+  42 cls
+  43 git status
